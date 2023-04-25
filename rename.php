@@ -2,6 +2,9 @@
 $needleArray = [
     '-MassTamilan.com',
     '-MassTamilan.io',
+    '-MassTamilan.dev',
+    '-MassTamilan.so',
+    '-MassTamilan.fm',
 ];
 $dirname = getcwd();
 $ds = DIRECTORY_SEPARATOR;
